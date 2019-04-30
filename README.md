@@ -1,5 +1,5 @@
-# Binomio-de-Newton
-Binômio de Newton em C# 
+# Binomio-de-Newton C#
+
 class Program
     {
 
